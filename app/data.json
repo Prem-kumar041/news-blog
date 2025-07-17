@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Vikram",
+    "sub": "Explore the world of Vikram, a gripping Tamil action thriller",
+    "description": "Vikram (2022) follows a special agent uncovering a criminal conspiracy, featuring Kamal Haasan, Vijay Sethupathi, and Fahadh Faasil in high-octane roles.",
+    "rating": 4.5,
+    "image": "/img1.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Kaithi",
+    "sub": "A night of adrenaline as a prisoner becomes a hero",
+    "description": "Kaithi (2019) is a gripping action-thriller where a recently released prisoner helps the police fight a drug mafia during one unforgettable night.",
+    "rating": 4.6,
+    "image": "/img2.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Jai Bhim",
+    "sub": "A powerful courtroom drama based on true events",
+    "description": "Jai Bhim (2021) showcases a lawyer's fight for justice for a tribal man wrongfully imprisoned. A hard-hitting story led by Suriya.",
+    "rating": 4.8,
+    "image": "/img3.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "96",
+    "sub": "A heartfelt tale of first love and nostalgia",
+    "description": "96 (2018) is a romantic drama that reunites two school sweethearts at a reunion, unfolding bittersweet memories and emotions.",
+    "rating": 4.7,
+    "image": "/img4.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Soorarai Pottru",
+    "sub": "An underdog's inspiring journey to start an airline",
+    "description": "Soorarai Pottru (2020) tells the true story of G. R. Gopinath’s dream to launch a low-cost airline, starring Suriya in a career-best performance.",
+    "rating": 4.9,
+    "image": "/img5.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Master",
+    "sub": "A battle of ideologies between a professor and a gangster",
+    "description": "Master (2021) features Thalapathy Vijay as an alcoholic professor who locks horns with a ruthless gangster played by Vijay Sethupathi.",
+    "rating": 4.4,
+    "image": "/img6.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Asuran",
+    "sub": "A gripping tale of caste violence and redemption",
+    "description": "Asuran (2019), starring Dhanush, is a rural action-drama that depicts a father's struggle to protect his family from upper-caste oppression.",
+    "rating": 4.7,
+    "image": "/img7.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Thani Oruvan",
+    "sub": "A cat-and-mouse game between a cop and a cunning villain",
+    "description": "Thani Oruvan (2015) is a stylish thriller where a brilliant cop takes on an evil scientist in a battle of wit and integrity.",
+    "rating": 4.6,
+    "image": "/img8.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Vada Chennai",
+    "sub": "A gangster saga set in North Chennai",
+    "description": "Vada Chennai (2018) is a raw crime drama where a carrom player gets drawn into the underworld politics of Chennai.",
+    "rating": 4.5,
+    "image": "/img9.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Pudhupettai",
+    "sub": "A gangster's ruthless rise to power",
+    "description": "Pudhupettai (2006) is a cult classic by Selvaraghavan about a slum boy who becomes a feared gangster, starring Dhanush.",
+    "rating": 4.4,
+    "image": "/img10.jpeg"
+  },
+  {
+    "id": 11,
+    "title": "Pariyerum Perumal",
+    "sub": "A bold portrayal of caste-based discrimination",
+    "description": "Pariyerum Perumal (2018) is a powerful drama about a law student’s struggle against social injustice in rural Tamil Nadu.",
+    "rating": 4.7,
+    "image": "/img11.jpeg"
+  },
+  {
+    "id": 12,
+    "title": "Super Deluxe",
+    "sub": "A dark, twisted multi-narrative masterpiece",
+    "description": "Super Deluxe (2019) intertwines multiple stories, exploring themes of gender, crime, and morality with an experimental narrative style.",
+    "rating": 4.6,
+    "image": "/img12.jpeg"
+  },
+  {
+    "id": 13,
+    "title": "Ratsasan",
+    "sub": "A psychological thriller that keeps you on edge",
+    "description": "Ratsasan (2018) is an intense thriller about a cop trying to catch a serial killer who targets schoolgirls, known for its suspenseful pace.",
+    "rating": 4.6,
+    "image": "/img13.jpeg"
+  },
+  {
+    "id": 14,
+    "title": "Karnan",
+    "sub": "A rebellion against systemic oppression",
+    "description": "Karnan (2021), starring Dhanush, tells the story of a young man rising against oppression and injustice in his village.",
+    "rating": 4.6,
+    "image": "/img14.jpeg"
+  },
+  {
+    "id": 15,
+    "title": "Anbe Sivam",
+    "sub": "A profound journey of humanism and love",
+    "description": "Anbe Sivam (2003) is a cult classic starring Kamal Haasan and Madhavan, highlighting themes of compassion, faith, and humanism.",
+    "rating": 4.8,
+    "image": "/img15.jpeg"
+  }
+]

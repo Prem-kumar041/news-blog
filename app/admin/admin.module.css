@@ -1,0 +1,70 @@
+.admin-table {
+  margin: 32px auto;
+  border-radius: 20px;
+  box-shadow: 0 8px 32px rgba(37, 99, 235, 0.10), 0 1.5px 8px rgba(0,0,0,0.05);
+  background: rgba(255,255,255,0.75);
+  min-width: 340px;
+  max-width: 520px;
+  overflow: hidden;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 2.5px solid #a5b4fc;
+  backdrop-filter: blur(9px);
+  transition: box-shadow 0.22s;
+}
+
+.admin-table:hover {
+  box-shadow: 0 12px 40px rgba(139,92,246,0.15), 0 2px 12px rgba(37,99,235,0.13);
+  border-color: #818cf8;
+}
+
+.admin-td {
+  padding: 22px 26px;
+  font-size: 1.12rem;
+  color: #29304d;
+  background: rgba(255,255,255,0.97);
+  border-bottom: 1.5px solid #e0e7ef;
+  letter-spacing: 0.1px;
+}
+
+.admin-td-sub {
+  color: #64748b;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 220px;
+  font-size: 1.04rem;
+  font-style: italic;
+}
+
+.admin-btn {
+  padding: 10px 22px;
+  margin: 0 6px;
+  border: none;
+  border-radius: 8px;
+  background: #2563eb;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 1.07rem;
+  box-shadow: none;
+  transition: background 0.18s;
+  outline: none;
+}
+
+.admin-btn:hover {
+  background: #1e40af;
+}
+
+.admin-btn.delete {
+  background: #ef4444;
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.admin-btn.delete:hover {
+  background: #b91c1c;
+}
+
