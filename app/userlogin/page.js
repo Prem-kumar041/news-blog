@@ -1,9 +1,9 @@
 "use client";
 import './page.css';
 import { useRouter } from 'next/navigation';
-import { useState } from 'react'; 
-u
-const login = () => {
+import { useState } from 'react';
+
+const Login = () => {  // Changed from 'login' to 'Login' (capital L)
     const router = useRouter();
     const [username, setUsername] = useState('');
     const [password, setPassword] = useState('');
@@ -12,6 +12,7 @@ const login = () => {
         e.preventDefault();
         router.push('/user'); 
     };
+    
     return (
         <div className="login-bg">
             <div className="login-card">
@@ -43,4 +44,5 @@ const login = () => {
         </div>
     );
 };
-export default login;
+
+export default Login;  // Changed to match the component name

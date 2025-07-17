@@ -33,7 +33,7 @@ export default function Navbar() {
         
       </span>
       <div style={{ display: "flex", gap: "2.5rem" }}>
-        <a
+        <Link
           href="/"
           style={{
             color: "#fff",
@@ -44,8 +44,8 @@ export default function Navbar() {
           }}
         >
           Home
-        </a>
-        <a
+        </Link>
+        <Link
           href="/userlogin"
           style={{
             color: "#fff",
@@ -55,8 +55,8 @@ export default function Navbar() {
           }}
         >
           User Login
-        </a>
-        <a
+        </Link>
+        <Link
           href="/admin-login"
           style={{
             color: "#fff",
@@ -66,7 +66,7 @@ export default function Navbar() {
           }}
         >
           Admin Login
-        </a>
+        </Link>
       </div>
     </nav>
   );
